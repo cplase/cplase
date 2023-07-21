@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on a Python game called *Alien Invasion!* — with the help of the *Python Crash Course* book.
+- 🌱 I’m currently learning how to program in Python — and then eventually in C.
 <!--
 **cplase/cplase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
